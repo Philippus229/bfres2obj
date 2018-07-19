@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="BFRES2OBJ\BFRES2OBJ.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BFRES2OBJ\Program.cs">
+    <Files>
+      <File FileName="BFRES2OBJ\Program.cs" Line="10" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
